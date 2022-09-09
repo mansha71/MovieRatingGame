@@ -1,0 +1,36 @@
+#title {
+    font-size: 150px;
+    color: #cc9767;
+    text-align: center;
+    margin-bottom: 15px;
+
+}
+
+#alert {
+    background-color:#55463b;
+    text-align: center;
+    color: white;
+    margin-bottom: 70px;
+}
+
+p {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
+
+#rati {
+    display: none;
+}
+
+#secR {
+    display: none;
+}
+
+
